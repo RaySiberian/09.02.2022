@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cb6dfc7730044c26a2b8a652cf729fb3, type: 3}
+  m_Name: ChessConfig
+  m_EditorClassIdentifier: 
+  chessFigures:
+  - {fileID: 11400000, guid: da5978e2c9d463947898c5f55ffc0933, type: 2}
+  - {fileID: 11400000, guid: 335c671f9f33eb7498046e9430aeda24, type: 2}
+  - {fileID: 11400000, guid: 27a478b7a12ad6b499aa308e941d07ef, type: 2}
+  - {fileID: 11400000, guid: 71a21b9d84142da4da41dc7e9ba8536d, type: 2}
+  - {fileID: 11400000, guid: 46215d8f482259a4babe787a1ae53e05, type: 2}
+  - {fileID: 11400000, guid: 61bd1e5a6041f3347a056b69e546f601, type: 2}
+  - {fileID: 11400000, guid: c604f321eabd6004aab300971c9879c1, type: 2}
+  - {fileID: 11400000, guid: 72534168288aa774391da3ffcf0ba224, type: 2}
+  - {fileID: 11400000, guid: 89684342b7ae9864188de9d43aab2717, type: 2}
+  - {fileID: 11400000, guid: c3e638d0ce0e598419621b8ef3b62f6f, type: 2}
+  - {fileID: 11400000, guid: 88edca0f6180ca9498339d2724367882, type: 2}
+  - {fileID: 11400000, guid: 0c057465357c007479d6e37c3b4eba16, type: 2}
