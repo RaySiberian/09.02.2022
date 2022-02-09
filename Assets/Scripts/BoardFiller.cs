@@ -5,7 +5,7 @@ public class BoardFiller : MonoBehaviour
     [SerializeField] private BoardPreset boardPreset;
     private void Start()
     {
-        foreach (var t in boardPreset.BoardPositions)
+        foreach (var t in boardPreset.BoardPoints)
         {
             GameObject obj  = Instantiate(t.ChessFigure.Prefab, t.Position,
                 Quaternion.identity);
